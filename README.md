@@ -1,4 +1,19 @@
-# Getting Started with Create React App
+# Weather App
+
+ - https://openweathermap.org/
+ - https://developer.accuweather.com/
+ - https://tintef.github.io/react-google-places-autocomplete/docs/get-lat-lng
+
+
+
+![chetWeather.gif](https://media.giphy.com/media/rvocjFhShJoHD7ZoKi/giphy.gif)
+
+
+Some quick practice 
+
+Simplify and go
+
+![img_1.png](img_1.png)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

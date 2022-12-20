@@ -1,0 +1,30 @@
+
+.currentWeather__container{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    margin: 2em;
+}
+
+.currentWeather__container div{
+    margin: 0.25em;
+}
+
+.cityLabel{
+    font-size: 26px;
+}
+
+.currentTemp{
+    font-size: 34px;
+}
+
+.currentWeatherInfo{
+    max-width: 150px;
+    align-self: center;
+    width: 100%;
+}
+
+.currentWeatherHighLow{
+    justify-content: space-between;
+    display: flex;
+}

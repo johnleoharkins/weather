@@ -1,0 +1,20 @@
+.hourlyWeather__container{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    overflow: scroll;
+    overflow-y: hidden;
+
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+.hourlyWeather{
+    font-size: 14px;
+    margin: 0.25em;
+}
+
+.hourlyIcon{
+    height: 24px;
+    margin: 0.1em;
+}

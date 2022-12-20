@@ -1,0 +1,32 @@
+.fiveDayWeather__container{
+    /*display: flex;*/
+    /*flex-direction: column;*/
+    /*justify-content: space-between;*/
+    /*align-content: center;*/
+    width: 100%;
+    bottom: 0;
+    position: relative;
+}
+.fiveDayWeather{
+    /*display: flex;*/
+    /*flex-direction: row;*/
+    /*justify-content: space-between;*/
+    /*align-content: center;*/
+    /*margin-left: 1em;*/
+    /*margin-right: 1em;*/
+}
+
+.icon{
+    height: 28px;
+    margin: 0.1em;
+}
+
+th, td {
+    padding: 15px;
+}
+td img{
+    /*padding-right: 1em;*/
+}
+tr {
+    /*row-span: ;*/
+}
